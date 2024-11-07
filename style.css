@@ -2,25 +2,34 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
-    background-color: red;
+    background-color: #1f2937;
 }
 
 .topheader {
     display: flex;
     justify-content: space-between;
-    max-width: 900px;
+    align-items: center;
+    max-width: 1000px;
     margin: 0 auto;
+    height: 60px;
+    color: white;
 }
 
 nav {
     
 }
 
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
 .topheader nav ul {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     list-style: none;
 }
