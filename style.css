@@ -19,17 +19,18 @@ header {
     color: white;
 }
 
-nav {
-    
-}
-
 .logo {
     font-size: 22px;
     font-weight: bold;
 }
 
-.topheader nav ul {
+nav {
     display: flex;
     gap: 20px;
     list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    color:white;
 }
