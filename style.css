@@ -145,3 +145,12 @@ blockquote {
 .callToAction .signUpBtn {
   border: 2px solid white;
 }
+
+footer {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 30px 0;
+}
