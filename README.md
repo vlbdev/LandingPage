@@ -7,3 +7,5 @@ what are the princeples of adding free vertical space - padding or margin, befor
 how to make a webpage exactly as a maket
 
 should i avoid the big number of knots in dom
+
+how to follow exact width of the page throw the all blocks
