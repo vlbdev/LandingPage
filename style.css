@@ -59,3 +59,17 @@ h1 {
 .intro {
   max-width: 450px;
 }
+
+.signUpBtn {
+  padding: 10px 0;
+  margin: 15px 0;
+  background: blue;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  display: block;
+  width: 140px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+}
