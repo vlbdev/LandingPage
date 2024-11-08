@@ -131,3 +131,17 @@ blockquote {
 .quote > div {
   max-width: 600px;
 }
+
+.callToAction > div {
+  background-color: blue;
+  color: white;
+  display: flex;
+  padding: 50px 0;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.callToAction .signUpBtn {
+  border: 2px solid white;
+}
